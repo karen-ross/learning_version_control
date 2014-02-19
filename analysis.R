@@ -6,4 +6,6 @@ test
 
 # this will be controled by git
 
+# a new line
+
 data <- read.csv("data/gapminder-FiveYearData.csv", stringsAsFactors=FALSE)
